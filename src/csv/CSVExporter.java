@@ -1,6 +1,6 @@
-package csv;
+package src.csv;
 
-import result.SimilarityResult;
+import src.result.SimilarityResult;
 import java.io.*;
 
 public class CSVExporter {

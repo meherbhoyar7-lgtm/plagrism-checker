@@ -1,4 +1,4 @@
-public class FactorialCalculator
+public class Virat
 {
 
     public static void main(String[] args)

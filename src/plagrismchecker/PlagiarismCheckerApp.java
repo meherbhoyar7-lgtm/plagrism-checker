@@ -1,8 +1,8 @@
-package plagrismchecker;
+package src.plagrismchecker;
 import java.io.*;
 import java.util.*;
-import result.SimilarityResult;
-import csv.CSVExporter;
+import src.result.SimilarityResult;
+import src.csv.CSVExporter;
 
 
 class FileHandler {
