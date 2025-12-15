@@ -3,7 +3,7 @@ public class FactorialCalculator
 
     public static void main(String[] args)
     {
-        int number = 6;
+        int number = 10;
         long result = calculateFactorial(number);
 
         System.out.println("The factorial of " + number + " is: " + result);
