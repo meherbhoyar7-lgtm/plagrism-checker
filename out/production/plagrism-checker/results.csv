@@ -1,3 +1,6 @@
-Virat.java,Virat2.java,Cosine Similarity,65.49
-Virat.java,Virat2.java,Cosine Similarity,65.49
-virat.java,Virat2.java,Cosine Similarity,65.49
+File1,File2,Method,Similarity(%)
+Virat.txt,Sachin.txt,Cosine Similarity,38.50Low Plagiarism,[],[]
+Virat.txt,Sachin.txt,Cosine Similarity,38.50Low Plagiarism,[2],[]
+Virat.txt,Sachin.txt,Cosine Similarity,38.50,"[his, from, in, india’s, ., as, inspiring, debut, and, just, a, centuries,, the, with, to, isn’t]"
+Virat.txt,Sachin.txt,Cosine Similarity,38.50,"[his, from, in, india’s, ., as, inspiring, debut, and, just, a, centuries,, the, with, to, isn’t]"
+Virat.txt,Sachin.txt,Cosine Similarity,38.50,Low Plagiarism,[],[]

@@ -1,8 +1,60 @@
----- Plagiarism Report ----
-File 1     : Virat.java
-File 2     : Virat2.java
-Method     : Cosine Similarity
-Similarity : 65.49%
-Status     : Medium Plagiarism
-----------------------------
+---- Detailed Plagiarism Report ----
+File 1 : Virat.txt
+File 2 : Sachin.txt
+Method : Cosine Similarity
+
+Line 1:
+Words in File1 : 5
+Words in File2 : 6
+Common Words  : 1
+Similarity    : 16.67%
+Status        : Low Similarity
+
+Line 2:
+Words in File1 : 1
+Words in File2 : 1
+Common Words  : 1
+Similarity    : 100.00%
+Status        : High Similarity
+
+Line 3:
+Words in File1 : 7
+Words in File2 : 9
+Common Words  : 3
+Similarity    : 33.33%
+Status        : Low Similarity
+
+Line 4:
+Words in File1 : 11
+Words in File2 : 9
+Common Words  : 0
+Similarity    : 0.00%
+Status        : Low Similarity
+
+Line 5:
+Words in File1 : 11
+Words in File2 : 19
+Common Words  : 1
+Similarity    : 5.26%
+Status        : Low Similarity
+
+Line 6:
+Words in File1 : 15
+Words in File2 : 14
+Common Words  : 3
+Similarity    : 20.00%
+Status        : Low Similarity
+
+Line 7:
+Words in File1 : 9
+Words in File2 : 13
+Common Words  : 2
+Similarity    : 15.38%
+Status        : Low Similarity
+
+
+Overall Results:
+Similarity : 38.50%
+Status     : Low Plagiarism
+-----------------------------------
 
