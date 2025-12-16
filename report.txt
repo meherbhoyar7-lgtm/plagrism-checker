@@ -1,0 +1,8 @@
+---- Plagiarism Report ----
+File 1     : Virat.java
+File 2     : Virat2.java
+Method     : Cosine Similarity
+Similarity : 65.49%
+Status     : Medium Plagiarism
+----------------------------
+

@@ -3,6 +3,7 @@ import java.io.*;
 import java.util.*;
 import src.result.SimilarityResult;
 import src.csv.CSVExporter;
+import src.report.ReportGenerator;
 
 
 class FileHandler {
@@ -101,7 +102,16 @@ public class PlagiarismCheckerApp {
                     );
 
                     CSVExporter.writeResult("results.csv", result);
+                    SimilarityResult result1 = new SimilarityResult(
+                            file1,
+                            file2,
+                            (choice == 1 ? "Word Overlap" : "Cosine Similarity"),
+                            similarity
+                    );
 
+
+                    ReportGenerator.generateReport("report.txt", result);
+                    System.out.println(result1);
 
                 }
                 catch (Exception e) {

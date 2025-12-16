@@ -15,7 +15,6 @@ public class CSVExporter {
             if (isNewFile) {
                 writer.append("File1,File2,Method,Similarity(%)\n");
             }
-
             writer.append(result.getFile1()).append(",");
             writer.append(result.getFile2()).append(",");
             writer.append(result.getMethod()).append(",");

@@ -39,9 +39,10 @@ public class SimilarityResult {
 
     @Override
     public String toString() {
-        return "File1: " + file1 +
-                ", File2: " + file2 +
-                ", Method: " + method +
-                ", Similarity: " + String.format("%.2f", similarity) + "%";
+        return "File1: " + file1 + "\n" +
+                ", File2: " + file2 +  "\n" +
+                ", Method: " + method +  "\n" +
+                ", Similarity: " + String.format("%.2f", similarity) + "%" + "\n" +
+                ", Status : " + getStatus();
     }
 }
